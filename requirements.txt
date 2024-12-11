@@ -1,0 +1,8 @@
+crewai
+autogen
+streamlit
+
+numpy
+Pillow
+Requests
+PyPDF2
